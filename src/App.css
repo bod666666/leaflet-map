@@ -1,0 +1,8 @@
+.leaflet-container{
+  width: 100vw;
+  height: 100vh;
+}
+#map { height: 180px; }
+.leaflet-popup-content { width: 360px; }
+.leaflet-popup-content img { height: 180px; width: 305px; }
+.leaflet-popup-content a { color: black; }

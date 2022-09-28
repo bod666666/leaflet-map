@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1100,
+        "locationId": "cnsc9539",
+        "name": "MAФ-1",
+        "comments" : "МАФ встановлений ТОВ “Активна Країна”",
+        "status": "OPEN",
+        "address": {
+            "street": "Jinmen Lake New Energy Vehicle Comprehensive Service Center, Cuibo Road, Xiqing District, Tianjin",
+            "city": "Kyiv",
+            "state": "Tianjin",
+            "zip": null,
+            "countryId": 115,
+            "country": "China",
+            "regionId": 102,
+            "region": "Asia Pacific"
+        },
+        "photo": "maf_1.jpeg",
+        "gps": {
+            "latitude": 50.3878902,
+            "longitude": 30.5000304
+        }
+    },
+    {
+        "id": 1101,
+        "locationId": "cnsc9540",
+        "name": "МАФ-2",
+        "status": "OPEN",
+        "address": {
+            "street": "No. 18, West Golmud Road, Delingha City, Haixi Mongolian and Tibetan Autonomous Prefecture, Qinghai",
+            "city": "Delingha",
+            "state": "Qinghai",
+            "zip": null,
+            "countryId": 115,
+            "country": "China",
+            "regionId": 102,
+            "region": "Asia Pacific"
+        },
+        "gps": {
+            "latitude": 50.396949, 
+            "longitude": 30.510617
+        },
+        "dateOpened": "2022-09-22",
+        "stallCount": 4,
+        "counted": true,
+        "elevationMeters": 2993,
+        "powerKilowatt": 150,
+        "solarCanopy": false,
+        "battery": false,
+        "statusDays": 0,
+        "urlDiscuss": false
+    },
+    {
+        "id": 1102,
+        "locationId": "cnsc9540",
+        "name": "МАФ-3",
+        "status": "OPEN",
+        "address": {
+            "street": "No. 18, West Golmud Road, Delingha City, Haixi Mongolian and Tibetan Autonomous Prefecture, Qinghai",
+            "city": "Delingha",
+            "state": "Qinghai",
+            "zip": null,
+            "countryId": 115,
+            "country": "China",
+            "regionId": 102,
+            "region": "Asia Pacific"
+        },
+        "gps": {
+            "latitude": 50.386438,
+            "longitude": 30.4983984
+        },
+        "dateOpened": "2022-09-22",
+        "stallCount": 4,
+        "counted": true,
+        "elevationMeters": 2993,
+        "powerKilowatt": 150,
+        "solarCanopy": false,
+        "battery": false,
+        "statusDays": 0,
+        "urlDiscuss": false
+    }
+]
